@@ -1,0 +1,114 @@
+[
+  {
+    "id": 1,
+    "name": "90's Wide Leg Washed High Waist Jean Trousers",
+    "price": 699,
+    "image": "https://dfcdn.defacto.com.tr/6/W4892AZ_21WN_NM39_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 2,
+    "name": "Basic Back Long Front Short Knitwear Sweater",
+    "price": 199,
+    "image": "https://dfcdn.defacto.com.tr/6/I6913AZ_21WN_BG184_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 3,
+    "name": "Faux Leather Backpack",
+    "price": 399,
+    "image": "https://dfcdn.defacto.com.tr/6/T3177AZ_20WN_BK27_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 4,
+    "name": "V-Neck Color Block Relax Fit Knitwear Cardigan",
+    "price": 299,
+    "image": "https://dfcdn.defacto.com.tr/6/U8682AZ_21WN_BK27_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 5,
+    "name": "Basic Covered Pocket Regular Fit Long Sleeve Blazer Jacket",
+    "price": 799,
+    "image": "https://dfcdn.defacto.com.tr/6/V7013AZ_21WN_BK27_01_03.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 6,
+    "name": "Turtleneck Regular Fit Long Knitwear Tunic Sweater ",
+    "price": 499,
+    "image": "https://dfcdn.defacto.com.tr/6/W1535AZ_21WN_PN90_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 7,
+    "name": "Crew Neck Relax Fit Velvet Sweater",
+    "price": 349,
+    "image": "https://dfcdn.defacto.com.tr/6/R1347AZ_21AU_BR402_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 8,
+    "name": "Checked Fleto Pocket Relax Fit Long Sleeve Blazer Jacket",
+    "price": 549,
+    "image": "https://dfcdn.defacto.com.tr/6/S8834AZ_21WN_BG352_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 9,
+    "name": "Relax Fit V Neck Buttoned Knitwear Cardigan",
+    "price": 449,
+    "image": "https://dfcdn.defacto.com.tr/6/V8612AZ_21WN_BN450_01_03.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 10,
+    "name": "Traditional Lace Detailed Half Turtleneck Knitwear Sweater ",
+    "price": 349,
+    "image": "https://dfcdn.defacto.com.tr/6/V7757AZ_21WN_ER105_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 11,
+    "name": "Quilted Hooded Relax Fit Long Inflatable Vest ",
+    "price": 649,
+    "image": "https://dfcdn.defacto.com.tr/6/V1541AZ_21AU_BG414_01_02.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 12,
+    "name": "Shirt Design Oversize Cachet Coat",
+    "price": 849,
+    "image": "https://dfcdn.defacto.com.tr/6/T9230AZ_20WN_GR2_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 13,
+    "name": "Square Patterned Fleece Stand Oversize Fit Sweatshirt",
+    "price": 399,
+    "image": "https://dfcdn.defacto.com.tr/6/U2450AZ_20CW_BK63_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 14,
+    "name": "Basic Hooded Kangaroo Pocket Relax Fit Sweat Cardigan",
+    "price": 299,
+    "image": "https://dfcdn.defacto.com.tr/6/V2711AZ_21AU_BG687_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 15,
+    "name": "Woman Trousers",
+    "price": 299,
+    "image": "https://dfcdn.defacto.com.tr/6/S7241AZ_21SP_NM39_01_02.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  },
+  {
+    "id": 16,
+    "name": "Regular Fit Crew Neck Line Pattern Long Sleeve Sweatshirt",
+    "price": 189,
+    "image": "https://dfcdn.defacto.com.tr/6/V6130AZ_21AU_RD286_01_01.jpg",
+    "description": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the"
+  }
+]
